@@ -1,1 +1,3 @@
-# LU.AM
+# luma
+
+A landing page
