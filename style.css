@@ -18,11 +18,17 @@ a {
     color: inherit;
 }
 
-/* Header */
+/* 
+MARK: Header
+ */
 header {
    display: flex; 
    justify-content: space-between;
    padding: 10px;
+}
+
+header .luma-icon {
+    height: 20px;
 }
 
 header nav {
@@ -37,6 +43,10 @@ main {
 
 .left {
     width: 40%;
+}
+
+.luma-logo-lg {
+    height: 50px;
 }
 
 .right {
@@ -55,6 +65,10 @@ footer .primary {
     margin-bottom: 10px;
 }
 
+.luma-logo-sm {
+    height: 20px;
+}
+
 footer .secondary {
-    margin: 20px;
+    margin-bottom: 20px;
 }
